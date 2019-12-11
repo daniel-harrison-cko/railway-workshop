@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="oneof" Version="2.1.151" />
+  </ItemGroup>
+
 </Project>

@@ -1,6 +1,6 @@
+using App.Samples;
 using NSpec;
 using Shouldly;
-using App.Samples;
 
 namespace Tests.Samples
 {

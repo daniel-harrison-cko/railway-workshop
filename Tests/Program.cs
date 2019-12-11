@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Reflection;
-using System.IO;
-using NSpec;
+﻿using NSpec;
 using NSpec.Domain;
 using NSpec.Domain.Formatters;
+using System;
+using System.Linq;
+using System.Reflection;
 
 namespace Tests
 {

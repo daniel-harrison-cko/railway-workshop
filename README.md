@@ -14,8 +14,8 @@ The contents of `Railway.cs` come from the project [AltNetRop] by Habaneroofdoom
 
 ## References
 
-1. [AltNetRop by habaneroofdoom]
-2. [Railway oriented programming by Scott Wlaschin]
+1. [AltNetRop]
+2. [Railway oriented programming]
 3. [OneOf]
 4. [NSpec]
 5. [Shouldly]

@@ -2,7 +2,7 @@ namespace App.Samples
 {
     public class Greeter
     {
-        private string _setting;
+        readonly string _setting;
 
         public Greeter(string setting)
         {

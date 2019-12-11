@@ -16,13 +16,15 @@ The contents of `Railway.cs` come from the project [AltNetRop] by Habaneroofdoom
 
 1. [AltNetRop]
 2. [Railway oriented programming]
-3. [OneOf]
-4. [NSpec]
-5. [Shouldly]
+3. [F# for fun and profit]
+4. [OneOf]
+5. [NSpec]
+6. [Shouldly]
 
 
 [AltNetRop]: https://github.com/habaneroofdoom/AltNetRop
 [Railway oriented programming]: https://vimeo.com/113707214
+[F# for fun and profit]: https://fsharpforfunandprofit.com/
 [OneOf]: https://github.com/mcintyre321/OneOf/
 [NSpec]: http://nspec.org/
 [Shouldly]: https://github.com/shouldly/shouldly
